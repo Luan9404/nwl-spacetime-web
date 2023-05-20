@@ -9,7 +9,7 @@ const roboto = Roboto({ subsets: ['latin'], variable: '--font-roboto' })
 const baiJamJuree = BaiJamJuree({
   subsets: ['latin'],
   weight: '700',
-  variable: '--font-baijamjuree',
+  variable: '--font-bai-jamjuree',
 })
 
 export const metadata = {
